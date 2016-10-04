@@ -1,0 +1,24 @@
+{
+  "name": "geoassetsApi",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.12.0",
+    "bwip-js": "^0.15.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "jsonwebtoken": "^5.4.0",
+    "mongoose": "^4.3.3",
+    "mongoose-paginate": "^4.2.0",
+    "morgan": "^1.6.1",
+    "multer": "^0.1.8",
+    "path": "^0.12.7"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
